@@ -86,6 +86,6 @@ The platform integrates **Razorpay Payment Gateway** to handle transactions, upd
 ## 🔐 Environment Variables
 
 ```env
-RAZORPAY_KEY_ID=your_key_id
-RAZORPAY_KEY_SECRET=your_key_secret
-MONGODB_URI=your_database_url
+RAZORPAY_KEY_ID=rzp_test_S42uUnK03LoNCV
+RAZORPAY_KEY_SECRET=RscGKKICpgaE8ts7rUNKbIQT
+MONGODB_URI=mongodb://localhost:27017/doctorDesk
